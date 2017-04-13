@@ -28,3 +28,12 @@ In addition,an attention based model proposed by Kelvin Xu et al. was also imple
 
 [6]http://cs231n.stanford.edu/
 
+![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo3.PNG)
+
+![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo4.PNG)
+
+![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo.PNG)
+
+![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo2.PNG)
+
+
