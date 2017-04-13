@@ -32,7 +32,11 @@ In addition,an attention based model proposed by Kelvin Xu et al. was also imple
 
 ![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo4.PNG)
 
+## Attention 
+
 ![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo.PNG)
+
+## Attention
 
 ![](https://github.com/PhuongHoangMinh/DeepLearningMadeItEasy/blob/master/ImageCaptioningTheano/Images/Demo2.PNG)
 
