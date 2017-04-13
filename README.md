@@ -14,6 +14,7 @@ In our implementation, we utilized the VGG-16 and LSTM to learn captions of imag
 In addition,an attention based model proposed by Kelvin Xu et al. was also implemented. Spatial attention maps are generated as Figure below.
 
 ##References
+
 [1]Karen Simonyan, Andrea Vedaldi, and Andrew Zisserman. "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps", ICLR Workshop 2014.
 
 [2]Yosinski et al, "Understanding Neural Networks Through Deep Visualization", ICML 2015 Deep Learning Workshop
